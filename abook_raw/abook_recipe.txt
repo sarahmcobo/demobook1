@@ -1,6 +1,6 @@
 
-title: abook
-author: Ann Author
+title: A Book about Books
+author: Joe Smith
 file_as: Author, Ann
 identifier: jcobobooks.com.epub-samples.demo
 coverdesign: A. Designer
@@ -28,7 +28,7 @@ front_matter: # must include "cover", "title_page", and "table_of_contents" (in 
      
 chapters:
      -  code: '010'
-        name: The First Chapter
+        name: The Beginning
         intro: This will be a great chapter.
         #starts_part: Part One
      -  code: '020'
