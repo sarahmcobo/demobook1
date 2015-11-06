@@ -3,9 +3,9 @@
          unique-identifier="pub-id" 
 		 prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title id="title">abook</dc:title>
+    <dc:title id="title">A Book about Books</dc:title>
     <meta refines="#title" property="title-type">main</meta>
-    <dc:creator id="creator">Ann Author</dc:creator>
+    <dc:creator id="creator">Joe Smith</dc:creator>
     <meta refines="#creator" property="file-as">Author, Ann</meta>
     <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
     <dc:identifier id="pub-id">jcobobooks.com.epub-samples.demo</dc:identifier>

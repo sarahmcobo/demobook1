@@ -1,15 +1,13 @@
-****starting to cook***** at 2015-11-06 10:36:00.151503 (Ireland time)
+****starting to cook***** at 2015-11-06 10:38:10.184782 (Ireland time)
 
 cook_dir: /home/ubuntu/books/sarahmcobo/demobook1
-NO RECIPE FOUND AT: /home/ubuntu/books/sarahmcobo/demobook1/abook_raw/abook_recipe.txt
-Creating new recipe for: abook
+deleting previously generated contents of directory: /home/ubuntu/books/sarahmcobo/demobook1/debug
+Opening recipe for: /home/ubuntu/books/sarahmcobo/demobook1/abook_raw/abook_recipe.txt
+deleting previously generated contents of directory: /home/ubuntu/books/sarahmcobo/demobook1/abook_cooked
 Opening Point Of Sale data for: abook_raw/abook_pos_data.txt
-No Point of Sale data this time.
 front_matter count: 4
-creating new empty chapter:010
-creating new empty chapter:020
-creating new empty chapter:030
 chapter count: 3
 ePubChef is finished, see /abook_served.
 zipping up to .epub at: /home/ubuntu/books/sarahmcobo/demobook1/abook_served/abook.epub
+deleting previously generated contents of directory: /home/ubuntu/books/sarahmcobo/demobook1/abook_served
 All done
